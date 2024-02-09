@@ -1,0 +1,13 @@
+Lab Assignment 3: Props and State Management
+
+In the ZIP file, please find:
+
+1. The IncredibleTodoListApp Project (without "node_modules" folder)
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab03
+
+
+2. Test Result
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab03/tree/main/document/Lab03_TestResult_CathySun.png
+
+
+
